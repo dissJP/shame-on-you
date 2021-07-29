@@ -6,7 +6,7 @@ import { useTexture, Html, OrbitControls, useGLTF } from "@react-three/drei";
 import "./App.css";
 
 function Jp() {
-  const url = "/jp.glb";
+  const url = "jp.glb";
   const { scene } = useGLTF(url);
   return (
     <primitive
@@ -18,7 +18,7 @@ function Jp() {
 }
 
 function SkyBox() {
-  const url = "/eQ9y7xBeY4-new.jpg";
+  const url = "eQ9y7xBeY4-new.jpg";
   const texture = useTexture(url);
   const { scene } = useThree();
   scene.background = texture;
@@ -38,9 +38,9 @@ const Earth = () => {
       <meshBasicMaterial
         specular={0x333333}
         shininess={5}
-        map={useTexture("/earth_atmos_2048_hfs.jpg")}
-        specularMap={useTexture("/earth_specular_2048.jpg")}
-        normalMap={useTexture("/earth_normal_2048.jpg")}
+        map={useTexture("earth_atmos_2048_hfs.jpg")}
+        specularMap={useTexture("earth_specular_2048.jpg")}
+        normalMap={useTexture("earth_normal_2048.jpg")}
         normalScale={new THREE.Vector2(0.85, 0.85)}
       />
     </mesh>
