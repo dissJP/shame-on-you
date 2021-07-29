@@ -1,6 +1,7 @@
 {
   "name": "shame-on-you",
   "version": "0.1.0",
+  "main": "src/index.js",
   "homepage": "https://dissJP.github.io/shame-on-you",
   "dependencies": {
     "@react-three/drei": "^7.2.2",
