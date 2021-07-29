@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shame-on-you/static/css/main.8c8e1fea.chunk.css",
-    "main.js": "/shame-on-you/static/js/main.aa5d2365.chunk.js",
-    "main.js.map": "/shame-on-you/static/js/main.aa5d2365.chunk.js.map",
+    "main.js": "/shame-on-you/static/js/main.41079ea1.chunk.js",
+    "main.js.map": "/shame-on-you/static/js/main.41079ea1.chunk.js.map",
     "runtime-main.js": "/shame-on-you/static/js/runtime-main.4f6b8b2f.js",
     "runtime-main.js.map": "/shame-on-you/static/js/runtime-main.4f6b8b2f.js.map",
     "static/js/2.ec0d7e5f.chunk.js": "/shame-on-you/static/js/2.ec0d7e5f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4f6b8b2f.js",
     "static/js/2.ec0d7e5f.chunk.js",
     "static/css/main.8c8e1fea.chunk.css",
-    "static/js/main.aa5d2365.chunk.js"
+    "static/js/main.41079ea1.chunk.js"
   ]
 }
