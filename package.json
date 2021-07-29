@@ -2,7 +2,7 @@
   "name": "shame-on-you",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dissJP.github.io/shame-on-you",
+  "homepage": "./",
   "dependencies": {
     "@react-three/drei": "^7.2.2",
     "@react-three/fiber": "^7.0.6",
