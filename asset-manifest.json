@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shame-on-you/static/css/main.8c8e1fea.chunk.css",
+    "main.js": "/shame-on-you/static/js/main.aa5d2365.chunk.js",
+    "main.js.map": "/shame-on-you/static/js/main.aa5d2365.chunk.js.map",
+    "runtime-main.js": "/shame-on-you/static/js/runtime-main.4f6b8b2f.js",
+    "runtime-main.js.map": "/shame-on-you/static/js/runtime-main.4f6b8b2f.js.map",
+    "static/js/2.ec0d7e5f.chunk.js": "/shame-on-you/static/js/2.ec0d7e5f.chunk.js",
+    "static/js/2.ec0d7e5f.chunk.js.map": "/shame-on-you/static/js/2.ec0d7e5f.chunk.js.map",
+    "static/js/3.b25d65df.chunk.js": "/shame-on-you/static/js/3.b25d65df.chunk.js",
+    "static/js/3.b25d65df.chunk.js.map": "/shame-on-you/static/js/3.b25d65df.chunk.js.map",
+    "index.html": "/shame-on-you/index.html",
+    "static/css/main.8c8e1fea.chunk.css.map": "/shame-on-you/static/css/main.8c8e1fea.chunk.css.map",
+    "static/js/2.ec0d7e5f.chunk.js.LICENSE.txt": "/shame-on-you/static/js/2.ec0d7e5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f6b8b2f.js",
+    "static/js/2.ec0d7e5f.chunk.js",
+    "static/css/main.8c8e1fea.chunk.css",
+    "static/js/main.aa5d2365.chunk.js"
+  ]
+}
